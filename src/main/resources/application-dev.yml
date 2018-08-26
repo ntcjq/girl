@@ -1,0 +1,7 @@
+server:
+  port: 8888
+#  context-path: girl
+girl:
+  name: GG
+  age: 18
+  cupSize: B
